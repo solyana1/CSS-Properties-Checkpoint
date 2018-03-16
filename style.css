@@ -1,0 +1,84 @@
+body {
+  background-color: #CEE6E7;
+  color: #000000;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+nav {
+  background-color: rgba(0,0,0,.5);
+  float: left;
+  position: fixed;
+  width: 100%;
+  font-size: 1.2em;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  width: 70%;
+}
+
+.left, .right{
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
+
+figcaption {
+  font-size: 0.9em;
+}
+
+h1 {
+  font-size: 1.6em;
+  line-height: 3em;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+p{
+  line-height:2.5;
+}
+a {
+  text-decoration: none;
+}
+
+a:link {color:#0070BB;
+}
+a:visited {color:#000000;
+}
+a:hover {color:#FFFFFF;
+}
+a:active {color:#0070BD;
+}
